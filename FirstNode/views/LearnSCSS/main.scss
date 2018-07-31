@@ -1,0 +1,9 @@
+$primary-color: green;
+body{
+  color: $primary-color;
+  padding: 0;
+}
+.hello{
+  extends: body;
+  margin-bottom: auto;
+}

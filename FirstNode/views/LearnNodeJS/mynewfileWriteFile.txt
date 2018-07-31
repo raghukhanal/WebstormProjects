@@ -1,0 +1,1 @@
+Hello content!Updated this file using fs.appendFile() from FileCreate.js file

@@ -1,0 +1,13 @@
+#side-nav {
+  background: #333;
+}
+#side-nav a:link,
+#side-nav a:visited {
+  color: white;
+  display: block;
+  padding: 8px;
+}
+#side-nav a:hover {
+  background: #777;
+}
+/*# sourceMappingURL=NestedRules.css.map */

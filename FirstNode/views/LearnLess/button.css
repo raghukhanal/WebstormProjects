@@ -1,0 +1,24 @@
+.button {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+}
+.jumboButton {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+  padding: 35px;
+}
+.lightButton {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+  background: #80f5aa;
+}
+/*# sourceMappingURL=button.css.map */

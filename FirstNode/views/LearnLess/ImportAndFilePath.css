@@ -1,0 +1,74 @@
+.button {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+}
+.jumboButton {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+  padding: 35px;
+}
+.lightButton {
+  background: #50996a;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 4px;
+  background: #80f5aa;
+}
+h3 {
+  color: #009900;
+  font-family: Tahoma, sans-serif;
+}
+p {
+  color: #009900;
+}
+.panel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+}
+.littlePanel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+}
+.bigPanel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+  font-size: 43px;
+  padding: 25px;
+}
+#side-nav {
+  background: #333;
+}
+#side-nav a:link,
+#side-nav a:visited {
+  color: white;
+  display: block;
+  padding: 8px;
+}
+#side-nav a:hover {
+  background: #777;
+}
+#one {
+  height: 150px;
+  width: 300px;
+  margin-bottom: 10px;
+  background: url("images/girl.jpg");
+}
+#two {
+  height: 950px;
+  width: 600px;
+  margin-bottom: 10px;
+  background: url("images/homepage/girl1.jpg");
+}
+/*# sourceMappingURL=ImportAndFilePath.css.map */

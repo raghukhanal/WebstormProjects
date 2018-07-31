@@ -1,0 +1,20 @@
+.panel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+}
+.littlePanel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+}
+.bigPanel {
+  border: 3px solid dodgerblue;
+  background: lightseagreen;
+  margin: 10px;
+  font-size: 43px;
+  padding: 25px;
+}
+/*# sourceMappingURL=mixins.css.map */
